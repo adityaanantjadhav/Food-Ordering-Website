@@ -3,16 +3,16 @@ Simple food ordering website created using html css bootstrap
 
 
 # Home
-![Home] (readMeImages/home);
+![Home] (readMeImages/home.png);
 # Menu
-![Menu] (readMeImages/menu);
+![Menu] (readMeImages/menu.png);
 # Contact
-![Contact] (readMeImages/contact);
+![Contact] (readMeImages/contact.png);
 # Cart
-![Cart] (readMeImages/cart);
+![Cart] (readMeImages/cart.png);
 # Telegram
-![Telegram] (readMeImages/telegram);
+![Telegram] (readMeImages/telegram.png);
 # Login
-![Login] (readMeImages/login);
+![Login] (readMeImages/login.png);
 # Admin Dashboard
-![Admin_Dashboard] (readMeImages/admin_dashboard);
+![Admin_Dashboard] (readMeImages/admin_dashboard.png);
